@@ -1,4 +1,4 @@
-# EventReporter: a LBS based Android App for Tourists and Local Residents
+# EventReporter: a LBS(Location-based service) based Android App To Explore Events on Map
 
 1. Developed an Android App for users to post events and search nearby events based on keyword hashtags with Java, Android Studio and Google Firebase.
 2. Implemented caching and managing UGC including comments, images, descriptions, geolocations with Firebase Realtime Database and Google Play services location APIs.
