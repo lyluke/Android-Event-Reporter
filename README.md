@@ -1,4 +1,4 @@
-# Android Event Reporter: 
+# Android Event Reporter
 
 ## Business Design
   - To build a LBS(Location-based service) based Android App to help customers explore nearby events on google Map.
